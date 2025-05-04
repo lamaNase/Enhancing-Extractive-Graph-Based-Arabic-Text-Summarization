@@ -28,3 +28,10 @@ This repository includes our Arabic text summarization system enhanced with **se
 
 📌 All results of the above pipelines—evaluated with various **ranking methods** and **settings**—are recorded in the following Google Sheet:  
 🔗 [View Results on Google Sheets](https://docs.google.com/spreadsheets/d/1y1839jmge_IACbthIXanKYBio8spKPcrVsoSc5zM8pc/edit?usp=sharing)
+
+
+# supervisor 👨‍🏫
+
+<p>
+  <img src="https://img.shields.io/badge/Dr.%20Aziz%20Qaroush-blue?style=for-the-badge" alt="Dr. Aziz Qaroush">
+</p>
