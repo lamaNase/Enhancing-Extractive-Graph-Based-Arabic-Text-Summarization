@@ -63,8 +63,8 @@ You can view our final presentation slides here:
 
 ## 🤝 Acknowledgements
 
-- **Dr. Aziz Qara'oush** – Project Supervisor  
-- **Dr. Mohammad Jebreen** – Examiner  
+- **Dr. Aziz Qaroush** – Project Supervisor  
+- **Dr. Mohammad Jubran** – Examiner  
 - Special thanks to everyone who supported this journey!
 
 ---
